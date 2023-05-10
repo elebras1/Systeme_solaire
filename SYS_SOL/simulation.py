@@ -154,7 +154,7 @@ class Sys_Sol(object):
         self.install()
 
 
-class Simulation(object):
+class Main(object):
     def __init__(self):
         self.running = True
         self.root = tk.Tk()
@@ -182,4 +182,4 @@ class Simulation(object):
         self.root.mainloop()
 
 
-Simulation().play()
+Main().play()
