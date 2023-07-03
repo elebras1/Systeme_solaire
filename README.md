@@ -1,7 +1,7 @@
 # Systeme_solaire
 
 This project implemented a simple solar system animation using Python's Tkinter library. Animation shows planets orbiting around the sun.
-![animation](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![animation](animation_solar_system.gif)
 ## Installation
 
 Make sure you have Python installed on your system. This project has been tested with Python 3.11.
