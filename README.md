@@ -1,3 +1,5 @@
+[![Langage](https://img.shields.io/badge/Langage-Python-blue.svg)](https://www.python.org/)
+[![Libraries](https://img.shields.io/badge/Libraries-Tkinter-yellow.svg)]([https://www.pygame.org/](https://docs.python.org/fr/3/library/tkinter.html))
 # Systeme_solaire
 
 This project implemented a simple solar system animation using Python's Tkinter library. Animation shows planets orbiting around the sun.
